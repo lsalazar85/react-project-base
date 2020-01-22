@@ -13,7 +13,7 @@ Base project with work dependencies
     npm install
     npm start
 ```
-Starts on `http://localhost:8080
+Starts on `http://localhost:8080`
 
 ## Build
 ```
