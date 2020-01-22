@@ -27,3 +27,5 @@ Starts on `http://localhost:8080`
 * Node-sass
 * Webpack
 * Intersection-observer
+* Eslint
+* Prettier
