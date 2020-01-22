@@ -4,14 +4,10 @@ Base project with work dependencies
 
 
 ## Run
-```
-    yarn install
-    yarn start
-```
 
 ```
     npm install
-    npm start
+    npm run dev
 ```
 Starts on `http://localhost:8080`
 
